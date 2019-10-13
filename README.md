@@ -2,7 +2,7 @@
 
 - The department of Computer Science and Information Engineering in I-Shou University, Taiwan.
 
-- Data Structure homework.
+- Data Structure practice.
 
 - Program language : C / C++
 
