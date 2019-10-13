@@ -4,12 +4,12 @@ The department of Computer Science and Information Engineering in I-Shou Univers
 
 A Course in Data Structure homework.
 
-1.  Linkedlist
+Linkedlist
 
-2.  Binary Tree
+Binary Tree
 
-3.  Prefix
+Prefix
 
-4.  Insert Sort
+Insert Sort
 
-5.  Merge Sort
+Merge Sort
