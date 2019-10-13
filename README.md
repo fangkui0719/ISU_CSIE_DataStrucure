@@ -4,6 +4,12 @@ The department of Computer Science and Information Engineering in I-Shou Univers
 
 A Course in Data Structure homework.
 
+Program language : C / C++
+
+Compiler : Dev C++
+
+# Program
+
 - Linkedlist
 
 - Binary Tree
@@ -13,7 +19,3 @@ A Course in Data Structure homework.
 - Insert Sort
 
 - Merge Sort
-
-Program language : C / C++
-
-Compiler : Dev C++
