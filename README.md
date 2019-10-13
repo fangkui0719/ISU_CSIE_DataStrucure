@@ -13,3 +13,7 @@ A Course in Data Structure homework.
 - Insert Sort
 
 - Merge Sort
+
+Program language : C / C++
+
+Compiler : Dev C++
